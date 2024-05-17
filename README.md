@@ -1,5 +1,4 @@
 [![ValGuibs banner](./assets/banner1.svg)](https://valguibs.com)
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-guibert-181315133/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valguibs@gmail.com)
 
@@ -25,6 +24,7 @@ Want to know more about me? [Check out my portfolio.](https://valguibs.com/)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ValGuibs&repo=Logiciels-production&title_color=ffffff&text_color=c9cacc&icon_color=1a7a7c&bg_color=0f192c" />
 </a>
 -->
+<br>
 
 ## 💼 Skills
 
@@ -37,7 +37,7 @@ Want to know more about me? [Check out my portfolio.](https://valguibs.com/)
 ![](https://img.shields.io/badge/webflow-%234353FF.svg?&style=flat-square&logo=webflow&logoColor=white)<br>
 <br>
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)<br>
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)<br>
 
 <br>
 
