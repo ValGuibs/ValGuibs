@@ -20,6 +20,11 @@ Want to know more about me? [Check out my portfolio.](https://valguibs.com/)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ValGuibs&repo=ValGuibs&title_color=ffffff&text_color=c9cacc&icon_color=1a7a7c&bg_color=0f192c" />
 </a>
 
+<a href="https://github.com/ValGuibs/Logiciels-production">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ValGuibs&repo=Logiciels-production&title_color=ffffff&text_color=c9cacc&icon_color=1a7a7c&bg_color=0f192c" />
+</a>
+
+
 
 
 <br>
