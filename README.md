@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-guibert-181315133/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valguibs@gmail.com)
 
-Hi there 👋
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" />
 
 I’m Valentin, a full-stack engineer, creative coder and self-proclaimed designer.
 I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
@@ -42,16 +42,16 @@ Want to know more about me? [Check out my portfolio.](https://valguibs.com/)
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br>
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)<br>
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)<br>
-![](https://img.shields.io/badge/webflow-%234353FF.svg?&style=for-the-badge&logo=webflow&logoColor=white)<br>
+![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)<br>
+![](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)<br>
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>
+![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)<br>
+![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)<br>
+![](https://img.shields.io/badge/webflow-%234353FF.svg?&style=flat-square&logo=webflow&logoColor=white)<br>
 <br>
-![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)<br>
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)<br>
+![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)<br>
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)<br>
 
 <br>
 <br>
