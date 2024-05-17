@@ -1,6 +1,6 @@
 [![ValGuibs banner](./assets/banner1.svg)](https://valguibs.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/ValGuibs)](https://valguibs.com)
+[![Visits Badge](https://badges.pufler.dev/visits/ValGuibs/ValGuibs)](https://valguibs.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/valentin-guibert-181315133/)
 
 ### Hi there 👋
