@@ -40,7 +40,6 @@ Want to know more about me? [Check out my portfolio.](https://valguibs.com/)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
 
 <br>
-<br>
 
 ## 🛠️ Featured projects
 
@@ -52,9 +51,8 @@ Gère un fichier de programmes CSV facilement, créer des programmes, envoie les
 Faire des captures d'écran puis créer un PDF sur mesure pour la production<br>
 <img src='./assets/Feuille_robot.gif' height=320/>
 
-...
+More and more...
 
-<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
