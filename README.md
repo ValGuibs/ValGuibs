@@ -10,6 +10,7 @@ I make it my mission to translate user-focused designs into pixel-perfect websit
 
 Want to know more about me? [Check out my portfolio.](https://valguibs.com/)
 
+<!--
 <br>
 
 ## 📌 Pinned Repositories
@@ -19,11 +20,39 @@ Want to know more about me? [Check out my portfolio.](https://valguibs.com/)
 <a href="https://github.com/ValGuibs/ValGuibs">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ValGuibs&repo=ValGuibs&title_color=ffffff&text_color=c9cacc&icon_color=1a7a7c&bg_color=0f192c" />
 </a>
-<!--
+
 <a href="https://github.com/ValGuibs/Logiciels-production">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ValGuibs&repo=Logiciels-production&title_color=ffffff&text_color=c9cacc&icon_color=1a7a7c&bg_color=0f192c" />
 </a>
 -->
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)<br>
+![](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)<br>
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>
+![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)<br>
+![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)<br>
+![](https://img.shields.io/badge/webflow-%234353FF.svg?&style=flat-square&logo=webflow&logoColor=white)<br>
+<br>
+![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)<br>
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)
+
+<br>
+<br>
+
+## 🛠️ Featured projects
+
+<b>PHL Speed :</b><br>
+Gère un fichier de programmes CSV facilement, créer des programmes, envoie les programmes directement sur la station<br>
+<img src='./assets/PHL_Speed.gif' height=320/>
+
+<b>Feuille robot :</b><br>
+Faire des captures d'écran puis créer un PDF sur mesure pour la production<br>
+<img src='./assets/Feuille_robot.gif' height=320/>
+
+...
 
 <br>
 <br>
@@ -44,30 +73,3 @@ Want to know more about me? [Check out my portfolio.](https://valguibs.com/)
 
 <br>
 <br>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)<br>
-![](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)<br>
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>
-![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)<br>
-![](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)<br>
-![](https://img.shields.io/badge/webflow-%234353FF.svg?&style=flat-square&logo=webflow&logoColor=white)<br>
-<br>
-![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)<br>
-![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black)<br>
-
-<br>
-<br>
-
-## 🛠️ My work
-
-<b>Logiciels de production :</b><br>
-Exécute la suite de logiciel développée sur mesure<br>
-<img src='./assets/Logiciels_production.gif' height=305/>
-
-<b>Feuille robot :</b><br>
-Faire des captures d'écran puis créer un PDF sur mesure pour la production<br>
-<img src='./assets/Feuille_robot.gif' height=305/>
-
