@@ -60,3 +60,14 @@ Want to know more about me? [Check out my portfolio.](https://valguibs.com/)
 
 <br>
 <br>
+
+## 🛠️ My work
+
+<b>Logiciels de production :</b><br>
+Exécute la suite de logiciel développée sur mesure<br>
+<img src='./assets/Logiciels_production.gif' height=305/>
+
+<b>Feuille robot :</b><br>
+Faire des captures d'écran puis créer un PDF sur mesure pour la production<br>
+<img src='./assets/Feuille_robot.gif' height=305/>
+
