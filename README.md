@@ -1,4 +1,4 @@
-[![ValGuibs banner](./assets/banner.svg)](https://valguibs.com)
+[![ValGuibs banner](./assets/banner1.svg)](https://valguibs.com)
 
 ### Hi there 👋
 
