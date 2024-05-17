@@ -1,3 +1,5 @@
+[![ValGuibs banner](./assets/banner.png)](https://valguibs.com)
+
 ### Hi there 👋
 
 <!--
